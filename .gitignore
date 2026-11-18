@@ -1,0 +1,5 @@
+# Executáveis
+*.exe
+
+# Arquivos gerados pelos exercícios
+notas.txt
